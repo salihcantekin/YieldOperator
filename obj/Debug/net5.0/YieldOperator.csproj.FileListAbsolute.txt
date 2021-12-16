@@ -1,0 +1,16 @@
+C:\Youtube\.Net Tutorial\Projects\YieldOperator\bin\Debug\net5.0\YieldOperator.exe
+C:\Youtube\.Net Tutorial\Projects\YieldOperator\bin\Debug\net5.0\YieldOperator.deps.json
+C:\Youtube\.Net Tutorial\Projects\YieldOperator\bin\Debug\net5.0\YieldOperator.runtimeconfig.json
+C:\Youtube\.Net Tutorial\Projects\YieldOperator\bin\Debug\net5.0\YieldOperator.runtimeconfig.dev.json
+C:\Youtube\.Net Tutorial\Projects\YieldOperator\bin\Debug\net5.0\YieldOperator.dll
+C:\Youtube\.Net Tutorial\Projects\YieldOperator\bin\Debug\net5.0\ref\YieldOperator.dll
+C:\Youtube\.Net Tutorial\Projects\YieldOperator\bin\Debug\net5.0\YieldOperator.pdb
+C:\Youtube\.Net Tutorial\Projects\YieldOperator\obj\Debug\net5.0\YieldOperator.csproj.AssemblyReference.cache
+C:\Youtube\.Net Tutorial\Projects\YieldOperator\obj\Debug\net5.0\YieldOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Youtube\.Net Tutorial\Projects\YieldOperator\obj\Debug\net5.0\YieldOperator.AssemblyInfoInputs.cache
+C:\Youtube\.Net Tutorial\Projects\YieldOperator\obj\Debug\net5.0\YieldOperator.AssemblyInfo.cs
+C:\Youtube\.Net Tutorial\Projects\YieldOperator\obj\Debug\net5.0\YieldOperator.csproj.CoreCompileInputs.cache
+C:\Youtube\.Net Tutorial\Projects\YieldOperator\obj\Debug\net5.0\YieldOperator.dll
+C:\Youtube\.Net Tutorial\Projects\YieldOperator\obj\Debug\net5.0\ref\YieldOperator.dll
+C:\Youtube\.Net Tutorial\Projects\YieldOperator\obj\Debug\net5.0\YieldOperator.pdb
+C:\Youtube\.Net Tutorial\Projects\YieldOperator\obj\Debug\net5.0\YieldOperator.genruntimeconfig.cache
